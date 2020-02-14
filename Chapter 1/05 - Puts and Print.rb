@@ -1,0 +1,2 @@
+puts "What's up?" # "puts" (which stands for put string) returns with a trailing return character after it.
+print "Oxnard Montalvo" # "print" outputs exactly what you set it to, with no trailing space or retrun.
